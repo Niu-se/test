@@ -1,0 +1,177 @@
+{
+    "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+    "CreationDate": "2023-11-29T00:52:05.719-00:00",
+    "Sources": [
+        {
+            "Packages": [
+                {
+                    "PackageIdentifier": "qier222.yesplaymusic"
+                },
+                {
+                    "PackageIdentifier": "PortSwigger.BurpSuite.Professional"
+                },
+                {
+                    "PackageIdentifier": "Bilibili.Bilibili"
+                },
+                {
+                    "PackageIdentifier": "CPUID.CPU-Z"
+                },
+                {
+                    "PackageIdentifier": "EaseUS.DataRecovery"
+                },
+                {
+                    "PackageIdentifier": "FastCopy.FastCopy"
+                },
+                {
+                    "PackageIdentifier": "GNU.Wget2"
+                },
+                {
+                    "PackageIdentifier": "Tonec.InternetDownloadManager"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.Edge"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.DotNet.SDK.7"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.WindowsTerminal"
+                },
+                {
+                    "PackageIdentifier": "Nlitesoft.NTLite"
+                },
+                {
+                    "PackageIdentifier": "Notepad++.Notepad++"
+                },
+                {
+                    "PackageIdentifier": "OBSProject.OBSStudio"
+                },
+                {
+                    "PackageIdentifier": "Daum.PotPlayer"
+                },
+                {
+                    "PackageIdentifier": "RProject.R"
+                },
+                {
+                    "PackageIdentifier": "Valve.Steam"
+                },
+                {
+                    "PackageIdentifier": "EpicGames.EpicGamesLauncher"
+                },
+                {
+                    "PackageIdentifier": "GOG.Galaxy"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.Teams"
+                },
+                {
+                    "PackageIdentifier": "JetBrains.Toolbox"
+                },
+                {
+                    "PackageIdentifier": "vim.vim"
+                },
+                {
+                    "PackageIdentifier": "Tencent.WeChat"
+                },
+                {
+                    "PackageIdentifier": "AndrewZhezherun.WinDjView"
+                },
+                {
+                    "PackageIdentifier": "WinMerge.WinMerge"
+                },
+                {
+                    "PackageIdentifier": "Zoom.Zoom"
+                },
+                {
+                    "PackageIdentifier": "Xmind.Xmind"
+                },
+                {
+                    "PackageIdentifier": "Initex.Proxifier"
+                },
+                {
+                    "PackageIdentifier": "Google.Chrome"
+                },
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+				},
+                {
+                    "PackageIdentifier": "bozbez.WinCaptureAudio.beta"
+                },
+                {
+                    "PackageIdentifier": "Inkscape.Inkscape"
+                },
+                {
+                    "PackageIdentifier": "VMware.WorkstationPro"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.VisualStudioCode"
+                },
+                {
+                    "PackageIdentifier": "Oracle.JDK.17"
+                },
+                {
+                    "PackageIdentifier": "TechPowerUp.GPU-Z"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.PowerShell"
+                },
+                {
+                    "PackageIdentifier": "Musescore.Musescore"
+                },
+                {
+                    "PackageIdentifier": "SomePythonThings.WingetUIStore"
+                },
+                {
+                    "PackageIdentifier": "GIMP.GIMP"
+                },
+                {
+                    "PackageIdentifier": "KDE.Krita"
+                },
+                {
+                    "PackageIdentifier": "darktable.darktable"
+                },
+                {
+                    "PackageIdentifier": "7zip.7zip"
+                },
+                {
+                    "PackageIdentifier": "RARLab.WinRAR"
+                },
+                {
+                    "PackageIdentifier": "Z-Library.Z-Library"
+                },
+                {
+                    "PackageIdentifier": "calibre.calibre"
+                },
+                {
+                    "PackageIdentifier": "gerardog.gsudo"
+                },
+                {
+                    "PackageIdentifier": "Microsoft.PowerToys"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://cdn.winget.microsoft.com/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        },
+        {
+            "Packages": [
+                {
+                    "PackageIdentifier": "9NBLGGH516XP"
+                },
+                {
+                    "PackageIdentifier": "9P1WXPKB68KX"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+                "Identifier": "StoreEdgeFD",
+                "Name": "msstore",
+                "Type": "Microsoft.Rest"
+            }
+        }
+    ],
+"WinGetVersion": "1.7.3172-preview"
+}
