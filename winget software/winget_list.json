@@ -146,6 +146,9 @@
                     "PackageIdentifier": "gerardog.gsudo"
                 },
                 {
+                    "PackageIdentifier": "Bopsoft.Listary"
+                },
+                {
                     "PackageIdentifier": "Microsoft.PowerToys"
                 }
             ],
